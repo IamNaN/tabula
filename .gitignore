@@ -1,0 +1,11 @@
+# Ignore binary and object files
+*.o
+tabula
+test_runner
+
+# Ignore other build artifacts
+*.log
+*.out
+
+# Ignore sample test file
+testfile.*
