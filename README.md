@@ -121,7 +121,3 @@ Please follow the existing code style and conventions.
 ### Reporting Issues
 
 If you encounter any issues, please create an issue in the GitHub repository.
-
-## License
-
-This project is licensed under the MIT License.
